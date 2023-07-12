@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://newstars.edu.vn/wp-content/uploads/2023/05/Spider-Man-Fan-Art-Unites-Characters-From-All-3-Live-Action-Universes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#heading{
+   color:aliceblue;
+   background-color:navy;
+   width: 700px;
+   text-align: center;
+   margin:auto;
+}
+#content{
+    display: flex;
+    background:rgba(0, 0, 0, 0.7);
+    height:500px;
+    width: 1350px;
+    margin:auto;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+img
+{
+    border: 3px solid lightblue;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    height: 150px;
+    width: 200px;
+}
+#title
+{
+    font-size: large;
+    color:beige;
+    display: flex;
+    width: 1350px;
+    margin:auto;
+    justify-content: space-around;
+}
